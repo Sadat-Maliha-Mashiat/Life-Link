@@ -18,28 +18,20 @@ Life Link is a web-based blood donation management system developed for the Web 
 
 
 # Tech Stack
-Frontend
-- React
-- TypeScript (TSX)
-- HTML5
-- CSS3
-Backend
-- Supabase (Authentication & Database)
-- Role-based access control
-- Secure API integration
-Deployment
-- Vercel
+- Frontend: React, TypeScript (TSX), HTML5, CSS3
+- Backend: Supabase (Authentication & Database), Role-based access control, Secure API integration
+- Deployment: Vercel
 
 
 # Team Contributions
-Sadat Maliha Mashiat 
-– Backend development, authentication, database integration
-Arjan Barua 
-– UI design, frontend implementation, responsive layout
-Md. Redwanul Alam 
-– Frontend components, layout consistency, UX improvement
-Jaima Wajiha 
-– Database design support, backend data handling
+- Sadat Maliha Mashiat: Backend development, authentication, database integration
+- Arjan Barua: UI design, frontend implementation, responsive layout
+- Md. Redwanul Alam:  Frontend components,– layout consistency, UX improvement
+- Jaima Wajiha: Database design support, backend data handling
+
+
+# 🔗 Project Link: 
+https://life-link-ashen.vercel.app/
 
 
 
